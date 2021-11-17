@@ -1,4 +1,4 @@
-# Problemas de programación básica 
+# Problemas de JavaScript 
 
 ## Descripción de los problemas
 
